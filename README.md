@@ -1,6 +1,6 @@
 # DevOps22
 
-This vagrant will install 4 Linux Ubuntu machines in a test cluster on Vagrant, 1 manager Docker node and 2 worker Docker nodes. 1 server will be a HAproxy server. This DevOps is to practice Docker swarm netwroking and high availability.
+This vagrant will install 4 Linux Ubuntu machines in a test cluster on Vagrant, 1 manager Docker node and 2 worker Docker nodes. 1 server will be a HAproxy server. This DevOps is to practice Docker swarm networking and high availability.
 It will add some default users, groups and directory's. It will install Docker-ce by default with Ansible and the user vagrant is in the Docker group.
 This Vagrant is to practice Docker swarm, commands on Docker swarm and deploy application over the Docker cluster.
 This repository is intended for educational purpose only.
