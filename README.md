@@ -68,6 +68,14 @@ Start VM's with Vagrant
 ```
 vagrant up
 ```
+Pause a VM
+```
+vagrant suspend
+```
+Restart a paused VM
+```
+vagrant resume
+```
 Stop and shutdown a VM
 ```
 vagrant halt
